@@ -28,16 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox1 = new TextBox();
-            SuspendLayout();
-            // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(152, 93);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(125, 27);
-            textBox1.TabIndex = 0;
-            textBox1.TextChanged += textBox1_TextChanged;
+            
             // 
             // Form1
             // 
